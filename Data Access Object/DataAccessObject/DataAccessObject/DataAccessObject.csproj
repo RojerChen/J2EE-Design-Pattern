@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="Dao\IRegionDao.cs" />
     <Compile Include="Dao\RegionDao.cs" />
+    <Compile Include="DataSource\DBHelper.cs" />
+    <Compile Include="DataSource\IDBHelper.cs" />
     <Compile Include="Model\RegionModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
